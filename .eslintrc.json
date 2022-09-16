@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
+    "next"
+  ],
+  "plugins": [],
+  "parserOptions": {},
+  "env": { "browser": true },
+  "globals": {},
+  "rules": { "semi": "warn", "no-unused-vars": "warn" }
+}
